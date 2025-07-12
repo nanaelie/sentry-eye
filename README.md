@@ -27,6 +27,10 @@ sentry-eye/
 └── README.md                    # Ce fichier
 ```
 
+## Schéma du montage
+
+![Montage Arduino](images/sentry-eye-arduino-schema-montage.png)
+
 ## Simulation en ligne
 
 Simulez le projet sur Wokwi : 👉 [Lien Wokwi](https://wokwi.com/projects/436228847692394497)
