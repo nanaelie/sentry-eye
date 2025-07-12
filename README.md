@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="/home/nanaelie/Documents/ino/sentry-eye/images/sentry-eye-cover-image.png" alt="SentryEye Cover Image">
+    <img src="images/sentry-eye-cover-image.png" alt="SentryEye Cover Image">
 </p>
 
 <br />
