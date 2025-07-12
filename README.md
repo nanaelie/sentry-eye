@@ -1,10 +1,11 @@
 <br /><br /><br />
 
-
-![Arduino](https://img.shields.io/badge/made%20with-Arduino-blue?logo=arduino)
-![License](https://img.shields.io/github/license/ton-user/sentry-eye)
-![Platform](https://img.shields.io/badge/platform-Wokwi-green)
-![Status](https://img.shields.io/badge/status-MVP-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/made%20with-Arduino-blue?logo=arduino" alt="Arduino">
+  <img src="https://img.shields.io/github/license/nanaelie/sentry-eye" alt="License">
+  <img src="https://img.shields.io/badge/platform-Wokwi-green" alt="Platform">
+  <img src="https://img.shields.io/badge/status-MVP-orange" alt="Status">
+</p>
 
 # SentryEye
 
