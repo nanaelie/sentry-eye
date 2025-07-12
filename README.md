@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/status-MVP-orange" alt="Status">
 </p>
 
+<br /><br />
+
 # SentryEye
 
 **SentryEye** est un système de sécurité domotique basé sur Arduino, conçu pour détecter les mouvements avec un capteur PIR. Il déclenche des alertes visuelles (LED, écran LCD) et sonores (buzzer) dans un style inspiré des centres de surveillance policiers. Idéal comme projet éducatif ou base extensible.
