@@ -11,11 +11,11 @@ int val = 0;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 void alerte(int mode) {
-    if(mode == 1) {
-      tone(BUZZER_PIN, 600);
-    }else {
-      noTone(BUZZER_PIN);
-    }
+  if(mode == 1) {
+    tone(BUZZER_PIN, 600);
+  }else {
+    noTone(BUZZER_PIN);
+  }
 }
 
 void setup() {
@@ -63,3 +63,4 @@ void loop() {
 
   delay(100);
 }
+
