@@ -1,4 +1,8 @@
-<br /><br /><br />
+<p align=center>
+    <img src="/home/nanaelie/Documents/ino/sentry-eye/images/sentry-eye-cover-image.png" alt="SentryEye Cover Image">
+</p>
+
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/made%20with-Arduino-blue?logo=arduino" alt="Arduino">
