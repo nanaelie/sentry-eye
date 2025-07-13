@@ -37,7 +37,8 @@ sentry-eye/
 │   ├── sketch.ino               # Code principal Arduino
 │   └── wokwi-project.txt        # Lien vers simulation Wokwi
 ├── images/
-│   └── sentry-eye-arduino-schema-montage.png
+│   ├── sentry-eye-arduino-schema-montage.png
+│   └── sentry-eye-cover-image.png
 ├── LICENSE                      # Licence MIT
 └── README.md                    # Ce fichier
 ```
